@@ -1,0 +1,42 @@
+.form-label{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 200;
+    font-size: 18px;
+}
+.form-control:hover{
+    cursor: pointer;
+    background-color: #ecebf9;
+   
+}
+.profile {
+    align-items: center;
+    display: flex;
+    height: 80px;
+    width: 80px;
+  }
+
+ .icons{
+    height: 30px;
+    width: 30px;
+    display:flexbox;    
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s linear;
+ }
+ .icons:hover{
+    cursor: pointer;
+    background:#aaafff;
+    border-radius: 5px;
+ }
+
+  .card{
+    width: 50%;
+    border-top: 5px solid rgb(176,106,252);
+    background-color: #afaec9;
+  }
+
+  .main-div{
+    height: 100vh;
+  }
+
+  
